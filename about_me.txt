@@ -2,4 +2,5 @@ Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
 
-Hello! My name is Yongha Cho. I am a first year undergraduate student of University of Michigan, and I am currently planning to major in statistics. Interesting fact about me is that I went to high school in Georgia, but I was born in Korea. Nice to meet you!
+Hello! My name is Yongha Cho. I am a first year undergraduate student of University of Michigan, and I am currently planning to major in statistics. 
+I went to high school in Georgia, but I am an international student from Korea. I like to play soccer and paint artworks. Nice to meet you!
